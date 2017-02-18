@@ -56,7 +56,7 @@ Next, to make sure there weren’t any classification errors in our LiDAR visual
 
 ![All Points](Gamble_Plantation-master/ALL POINTS.JPG)
 
-In this image, the red areas indicate vegetation (i.e. trees, bushes, etc.) Since there is no red in the area of interest, we can rule out that the features we are seeing are trees. 
+In this image, the red areas indicate vegetation (i.e. trees, bushes, etc.) Since there is no red in the area of interest, we have determined that these features are not trees. 
 
 ![Hillshade](Gamble_Plantation-master/Hillshade.png)
 
