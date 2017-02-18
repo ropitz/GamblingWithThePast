@@ -4,7 +4,7 @@ Major Robert Gamble founded Gamble Plantation on 160 acres along the Manatee Riv
 
 [Gamble Plantation Map](Gamble_Plantation-master/Map.HTML)
 
-![Confederate Reunion, 1927 | Photo courtesy of Gamble Plantation Historic State Park](Gamble_Plantation-master/Confederate.jpg)
+![Confederate Reunion, 1927 | Photo courtesy of Gamble Plantation Historic State Park](Gamble_Plantation-master/Confederate.png)
 
 The Park consists of the antebellum plantation house, a small museum, and a few small related features. Noticeably absent from the property, however, are the quarters where the enslaved Africans working the planation would have lived. 
 
@@ -78,7 +78,7 @@ If you answered **yes** to any of these questions, we want to hear from you! Sen
 
 ### About The Authors
 
-![MattLitteral](Gamble_Plantation-master/MattLitteral.jpg)
+![MattLitteral](Gamble_Plantation-master/MattLitteral.png)
 
 ![KatePadula](Gamble_Plantation-master/KatePadula.png)
 
