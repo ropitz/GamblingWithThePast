@@ -26,7 +26,7 @@ Therefore, we hypothesize that we will be able to use LiDAR data to identify pot
 
 ### What is LiDAR?!
 
-Light Detection and Ranging (LiDAR) is a system of remote sensing. A plane equiped with a LiDAR sensor flies over an area and uses a laser to discharge light towards the ground. This light bounces off of things like trees and buildings before it is reflected back to the LiDAR sensor and is recorded. The sensor also communicates with satellites to assign a GPS location for each data set.
+Light Detection and Ranging (LiDAR) is a system of remote sensing. A plane equiped with a LiDAR sensor flies over an area and uses a laser to discharge light towards the ground. This light bounces off of things like trees and buildings before it is reflected back to the LiDAR sensor and recorded. The sensor also communicates with satellites to assign a GPS location for each data set.
 
 Based on the time it takes for the light to reflect back to the sensor, we are able to understand what kinds of structures or vegetation are present, and determine the elevation of an area.
 
@@ -69,7 +69,7 @@ Finally, we wanted to see if there were any modern structures previously in the 
 Because the features we are interested in are visible as far back as 1951, coupled with the fact that the aerial photos show no structures in this area since 1940, we conclude that the features must have been created prior to 1940. Making these features good candidates for potential slave quarters.  
  
 ### What Finding the Slave Quarters Would Mean
-LiDAR visualizations can tell us about the community organization patterns of the enslaved. These features have a rather organic spatial arrangement, which may provide clues about the cultural identity and agency of the enslaved. The visualizations can also open up the door to archaeological excavation, which will allow us to better understand the daily lives of the enslaved at Gamble. 
+LiDAR visualizations can tell us about the community organization patterns of the enslaved. These features have a rather organic spatial arrangement, which may provide clues about the cultural identity and agency of the enslaved. The visualizations can also open up the door to archaeological excavation, which will allow us to better understand the daily lives of enslaved Africans at Gamble. 
 
 Additionally, since the museum at Gamble Plantation Historic State Park does not currently include a heavy narrative about the enslaved, slave quarter excavations could supply key information that would lead to African-American heritage finally being represented at the museum. 
 
