@@ -80,7 +80,7 @@ If you answered **yes** to any of these questions, we want to hear from you! Sen
 
 ![MattLitteral](Gamble_Plantation-master/MattLitteral.png)
 
-![KatePadula](Gamble_Plantation-master/KatePadula3.jpg)
+![KatePadula](Gamble_Plantation-master/KatePadula3.JPG)
 
 **Matt Litteral** and **Kate Padula** are Master's Candidates in Applied Anthropology at the University of South Florida. They are both in the archaeology track, studying sugar plantations in Florida.
 
