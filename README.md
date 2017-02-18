@@ -35,7 +35,7 @@ Based on the time it takes for the light to reflect back to the sensor, we are a
 
 LiDAR is increasingly important in archaeology because it allows archaeologists to visualize areas that are inaccessible. 
 
-It’s also helpful because it allows us to see features that might not be visible with the naked eye. Light from the lazer is able to penetrate through foliage, to reveal information about underlying ground surface.
+It’s also helpful because it allows us to see features that might not be visible with the naked eye. Light from the laser is able to penetrate through foliage, to reveal information about the underlying ground surface.
 
 
 ### What We’ve Found So Far
