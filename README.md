@@ -60,18 +60,18 @@ In this image, the red areas indicate vegetation (i.e. trees, bushes, etc.) Sinc
 
 ![Hillshade](Gamble_Plantation-master/Hillshade.png)
 
-To get an even better understanding of these features, we created an image called a hillshade. This type of visualization shows an area as if the sun was shining from different angles overhead, which adds shadow and allows us to see areas of interest in more detail. 
+To get an even better understanding of these features, we created an image called a hillshade. This type of visualization shows an area as if the sun was shining from a specified angle overhead, which adds shadow and allows us to see areas of interest in more detail. 
 
-Finally, we wanted to see if there were any structures previously in the area that could have left behind these features. To do this, we looked at historic aerial photos of the area over the past 75 years. We were also able to identify the features in nearly all of the historic aerial photos.
+Finally, we wanted to see if there were any modern structures previously in the area that could have left behind these features. To do this, we looked at historic aerial photos of the area over the past 75 years. We were also able to identify the features in nearly all of the historic aerial photos.
 
 ![Aerial Progression, Courtesy of the Florida Department of Transportation](Gamble_Plantation-master/Aerials.png)
 
-Since the features we are interested in are visible as far back as 1951, and the photos show there have been no structures in this area since 1940, weconclude that the features must have been created prior to 1940, and are good candidates for being potential slave quarters.  
+Because the features we are interested in are visible as far back as 1951, coupled with the fact that the aerial photos show no structures in this area since 1940, we conclude that the features must have been created prior to 1940. Making these features good candidates for potential slave quarters.  
  
 ### What Finding the Slave Quarters Would Mean
-Using these LiDAR visualizations to confirm an area where the slave quarters might be located can tell us about the community organization patterns of the enslaved. It can also open up the door to archaeological excavation, which will help us understand the daily lives of the enslaved at Gamble. 
+LiDAR visualizations can tell us about the community organization patterns of the enslaved. These features have a rather organic spatial arrangement, which may provide clues about the cultural identity and agency of the enslaved. The visualizations can also open up the door to archaeological excavation, which will allow us to better understand the daily lives of the enslaved at Gamble. 
 
-Additionally, since the museum at Gamble Plantation Historic State Park does not currently include a heavy narrative about the enslaved, slave quarter excavations could supply key information that would lead to  African-American heritage finally being represented at the museum. 
+Additionally, since the museum at Gamble Plantation Historic State Park does not currently include a heavy narrative about the enslaved, slave quarter excavations could supply key information that would lead to African-American heritage finally being represented at the museum. 
 
 ### Is Your Home a Piece of Gamble History?! 
 Do you live in the area around Gamble Plantation?
