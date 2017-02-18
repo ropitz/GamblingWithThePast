@@ -2,9 +2,9 @@
 
 Major Robert Gamble founded Gamble Plantation on 160 acres along the Manatee River in the mid-1840s. By 1850 his holdings expanded to include 3,500 acres and over 200 enslaved individuals. Today, a portion of what was once the plantation is now part of a [State Park](https://www.floridastateparks.org/park/Gamble-Plantation). 
 
-[Gamble Plantation Map](Gamble_Plantation/Map.HTML)
+[Gamble Plantation Map](Gamble_Plantation-master/Map.HTML)
 
-![Confederate Reunion, 1927 | Photo courtesy of Gamble Plantation Historic State Park](Confederate.jpg)
+![Confederate Reunion, 1927 | Photo courtesy of Gamble Plantation Historic State Park](Gamble_Plantation-master/Confederate.jpg)
 
 The Park consists of the antebellum plantation house, a small museum, and a few small related features. Noticeably absent from the property, however, are the quarters where the enslaved Africans working the planation would have lived. 
 
@@ -26,7 +26,7 @@ Light Detection and Ranging (LiDAR) is a system of remote sensing. A place with 
 
 Based on the time it takes for the light to reflect back to the sensor, we are able to understand what kinds of structures or vegetation are present, and determine the elevation of an area.
 
-![LiDAR Cartoon](LiDARCartoon.png)
+![LiDAR Cartoon](Gamble_Plantation-master/LiDARCartoon.png)
 
 
 ### Why is LiDAR important to archaeologists?
@@ -38,7 +38,7 @@ It’s also helpful because it allows us to see features that might not be visib
 
 ### What We’ve Found So Far
 
-![LiDARDTM](LiDARDTM.jpg)
+![LiDARDTM](Gamble_Plantation-master/LiDARDTM.jpg)
 
 This basic LiDAR image highlights an area of interest to the northeast of the Gamble plantation house. In what seems to be an undeveloped field, we've identified several circular features measuring about 40ft across and 1 to 2 feet high. These are the right shape and size to potentially be remnants of slave quarters. You can use the 3D point cloud below to take a closer look at the area.
 
@@ -46,21 +46,21 @@ This basic LiDAR image highlights an area of interest to the northeast of the Ga
 
 To get a better view of the elevation on these potential features, we also made a profile of the area, which allows us to see it as if we were standing on the ground.
 
-![Profile](Profile.png)
+![Profile](Gamble_Plantation-master/Profile.png)
 
 Next, to make sure there weren’t any classification errors in our LiDAR visual, in which vegetation (like trees) could be confused with ground points, we created a visualization of all points (including trees).
 
-![All Points](ALL POINTS.JPG)
+![All Points](Gamble_Plantation-master/ALL POINTS.JPG)
 
 In this image, the red areas indicate vegetation (i.e. trees, bushes, etc.) Since there is no red in the area of interest, we can rule out that the features we are seeing are trees. 
 
-![Hillshade](Hillshade.png)
+![Hillshade](Gamble_Plantation-master/Hillshade.png)
 
 To get an even better visualization on these features, we created an image called a hillshade. This type of visualization shows an area as if the sun was shining from different angles overhead, which adds shadow and allows us to see areas of interest in more detail. 
 
 Finally, we wanted to see if there were any structures previously in the area that could have left behind or made these features. To do this, we looked at historic aerial photos of the area for the past 75 years. We were also able to identify the features in almost all of the historic aerial photos.
 
-![Aerial Progression, Courtesy of the Florida Department of Transportation](Aerials.png)
+![Aerial Progression, Courtesy of the Florida Department of Transportation](Gamble_Plantation-master/Aerials.png)
 
 Since the features we are interested in are visible as far back as 1951, and the photos show there have been no structures in this area since 1940, the features must have been created prior to 1940, and are good candidates for being potential slave quarters.  
  
@@ -78,9 +78,9 @@ If you answered **yes** to any of these questions, we want to hear from you! Sen
 
 ### About The Authors
 
-![MattLitteral](MattLitteral.jpg)
+![MattLitteral](Gamble_Plantation-master/MattLitteral.jpg)
 
-![KatePadula](KatePadula.png)
+![KatePadula](Gamble_Plantation-master/KatePadula.png)
 
 **Matt Litteral** and **Kate Padula** are Master's Candidates in Applied Anthropology at the University of South Florida. They are both in the archaeology track, studying sugar plantations in Florida.
 
