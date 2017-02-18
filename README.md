@@ -15,7 +15,7 @@ These enslaved African domestic sites have yet to be located and uncovered by ar
 
 ### Research Goals
 
-Currently, no know historical documents exist that explicitly state where the living quarters of those enslaved at Gamble Plantation were located. Based on similar plantations in Florida, we believe the quarters would have been in the general vicinity of the plantation house. 
+Currently, there are no known historical documents that explicitly state the location of the living quarters of those enslaved at Gamble Plantation. Based on similar plantations in Florida, we believe the quarters would have been in the general vicinity of the plantation house. 
 
 In archaeological investigations, it is customary to perform a ground survey on foot to assess if an area would be ideal to excavate. However, because the area we are interested in is both expansive and largely developed, ground survey would not be the most effective way to identify potential excavation sites. 
 
