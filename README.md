@@ -42,7 +42,7 @@ It’s also helpful because it allows us to see features that might not be visib
 
 This basic LiDAR image highlights an area of interest to the northeast of the Gamble plantation house. In what seems to be an undeveloped field, we've identified several circular features measuring about 40ft across and 1 to 2 feet high. These are the right shape and size to potentially be remnants of slave quarters. You can use the 3D point cloud below to take a closer look at the area.
 
-![POINT CLOUD](https://dl.dropboxusercontent.com/u/106681985/PublicMap/portal.html)
+[POINT CLOUD](https://dl.dropboxusercontent.com/u/106681985/PublicMap/portal.html)
 
 To get a better view of the elevation on these potential features, we also made a profile of the area, which allows us to see it as if we were standing on the ground.
 
