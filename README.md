@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<img src="https://github.com/ropitz/test_site/blob/master/Activities.jpg">
 ![activities](https://github.com/ropitz/test_site/blob/master/Activities.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
