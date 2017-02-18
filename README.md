@@ -97,7 +97,7 @@ Data sources:
 2007 FDEM Lidar: Southwest Florida
 Southwest FL Water Management District, FL Division of Emergency Management, FL Fish and Wildlife Conservation Commission, FL Department of Environmental Protection 
 
-(http://ufdc.ufl.edu/aerials
+http://ufdc.ufl.edu/aerials
 
 
 
