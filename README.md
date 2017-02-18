@@ -76,7 +76,7 @@ Do you live in the area around Gamble Plantation?
 Have you ever found artifacts or old foundations on your property?
 Does your land have a unique history?
 
-If you answered **yes** to any of these questions, we want to hear from you! Send us an email at address listed below - we'd love to learn about your property and potentially schedule a walkthrough of your land. 
+If you answered **yes** to any of these questions, we want to hear from you! Send us an email at the address listed below - we'd love to learn about your property and potentially schedule a walkthrough of your land. 
 
 ### About The Authors
 
