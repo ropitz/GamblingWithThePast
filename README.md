@@ -8,9 +8,9 @@ Major Robert Gamble founded Gamble Plantation on 160 acres along the Manatee Riv
 
 Confederate Reunion, 1927 	Photo courtesy of Gamble Plantation Historic State Park.
 
-The Park consists of the antebellum plantation house, a small museum, and a few other related features. Noticeably absent from the property, however, are the quarters where the enslaved Africans working the planation would have lived. 
+The park consists of the antebellum plantation house, a small museum, and a few other related features. Noticeably absent from the property, however, are the quarters where the enslaved Africans working the planation would have lived. 
 
-These enslaved African domestic sites have yet to be located and uncovered by archaeologists or historians. This is unfortunate, because a lack of archaeological information about the daily lives of the enslaved at Gamble has led to a skewed perception of history that ignores the cultural heritage of African Americans.
+These enslaved African domestic sites have yet to be located and uncovered by archaeologists or historians. This is unfortunate, because a lack of archaeological information about the daily lives of the enslaved at Gamble can lead to a skewed perception of history that ignores the cultural heritage of African Americans.
 
 
 ### Research Goals
